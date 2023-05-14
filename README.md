@@ -1,3 +1,6 @@
 # gori_search
 a simple website that will help you search hacker one reports!
-<video src='gori search demo.mp4' width=180></video>
+
+
+https://github.com/gorigorisensei/gori_search/assets/46886933/ece3be7c-80cb-4852-b96b-d0fc597aa54d
+
